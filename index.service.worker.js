@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1730560955|1121710254';
+const CACHE_VERSION = '1730759918|173819525';
 /** @type {string} */
 const CACHE_PREFIX = 'Maizena Web Game-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
